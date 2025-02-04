@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://imgur.com/a/TzoYBX5">
 
-<!--
-**Tonminhvan1912/Tonminhvan1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Ton Minh Van
+## Data Analyst
+------------
 
-Here are some ideas to get you started:
+Seeking a challenging Data Analyst position in a dynamic organization to leverage my skills in data mining, statistical modeling, and data visualization for insightful decision-making. Proficient in SQL, Power BI, Python, Excel, I aim to enhance operational efficiency while being a fast learner and proactive listener.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Ho Chi Minh City, Vietnam
+*   ✉️  You can contact me at [minhvan191204@gmail.com](mailto:minhvan191204@gmail.com)
+
+💻 **SKILL**
+
+**Technical skills:** SQL, Power BI, Python, MS Office Suite, Google Suite
+
+**Interpersonal skills:** Market Research, Financial Analysis, Data Analysis, Data Visualization, Problem Solving, Leadership, Presentation, Project Management, Event Organization
+
