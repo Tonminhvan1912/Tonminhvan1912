@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/bc4ef9a3-8452-4a9b-b08d-873c54ca2578)
+![Image](https://github.com/user-attachments/assets/1a95534a-613a-46ed-8cad-c55e0fa932d2)
 
 # Hi there 👋 I'm Ton Minh Van
 ## Data Analyst
