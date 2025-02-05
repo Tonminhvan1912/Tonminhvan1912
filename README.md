@@ -10,8 +10,13 @@ Seeking a challenging Data Analyst position in a dynamic organization to leverag
 *   ✉️  You can contact me at [minhvan191204@gmail.com](mailto:minhvan191204@gmail.com)
 
 💻 **SKILL**
+    
+**SQL:** MySQL, Google BigQuery
+    
+**Power BI:** DAX, Power Query, Data Modeling
+    
+**Python:** Pandas, NumPy, MatPlotLib, Seaborn
+    
+**Machine Learning:** Unsupervised Learning & Supervised Learning with Scikit-learn
 
-**Technical skills:** SQL, Power BI, Python, MS Office Suite, Google Suite
-
-**Interpersonal skills:** Market Research, Financial Analysis, Data Analysis, Data Visualization, Problem Solving, Leadership, Presentation, Project Management, Event Organization
 
