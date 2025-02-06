@@ -19,7 +19,7 @@ Seeking a challenging Data Analyst position in a dynamic organization to leverag
     
 **Machine Learning:** Unsupervised Learning & Supervised Learning with Scikit-learn
 
-**MY PROJECT** 👇👇👇
+## **MY PROJECT** 👇👇👇
 
 <a href="https://github.com/Tonminhvan1912/SQL-Unraveling-E-commerce-Insights/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=SQL-Unraveling-E-commerce-Insights&theme=omni" />
