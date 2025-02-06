@@ -21,6 +21,5 @@ Seeking a challenging Data Analyst position in a dynamic organization to leverag
 
 **MY PROJECT** 👇👇👇
 <a href="https://github.com/Tonminhvan1912/SQL-Unraveling-E-commerce-Insights/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tonminhvan1912&repo=SQL-Unraveling-E-commerce-Insights&theme=omni" />
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=SQL-Unraveling-E-commerce-Insights&theme=omni" />
+</a>
