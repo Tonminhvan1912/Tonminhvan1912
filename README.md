@@ -4,7 +4,10 @@
 ## Data Analyst
 ------------
 
-Seeking a challenging Data Analyst position in a dynamic organization to leverage my skills in data mining, statistical modeling, and data visualization for insightful decision-making. Proficient in SQL, Power BI, Python, Excel, I aim to enhance operational efficiency while being a fast learner and proactive listener.
+Seeking a challenging Data Analyst position in a dynamic organization to leverage my skills in data mining, statistical modeling, and data visualization for insightful decision-making. Proficient in SQL, Power BI, Python, Excel, I enjoy uncovering patterns that tell compelling stories. My journey includes working with diverse datasets and employing machine learning techniques to enhance decision-making processes.
+
+Feel free to connect with me as I explore the fascinating world of data!
+
 
 *   🌍  I'm based in Ho Chi Minh City, Vietnam
 *   ✉️  You can contact me at [minhvan191204@gmail.com](mailto:minhvan191204@gmail.com)
