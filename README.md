@@ -19,4 +19,8 @@ Seeking a challenging Data Analyst position in a dynamic organization to leverag
     
 **Machine Learning:** Unsupervised Learning & Supervised Learning with Scikit-learn
 
-
+**MY PROJECT** 👇👇👇
+<a href="https://github.com/iposoon/User-Churn-Analysis/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tonminhvan1912&repo=SQL-Unraveling-E-commerce-Insights&theme=omni" />
+</a>  
