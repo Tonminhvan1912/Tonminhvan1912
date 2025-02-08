@@ -14,7 +14,7 @@ Feel free to connect with me as I explore the fascinating world of data!
 
 💻 **SKILL**
     
-**SQL:** MySQL, Google BigQuery
+**SQL:** MySQL, Google BigQuery, SQL Server Management Studio
     
 **Power BI:** DAX, Power Query, Data Modeling
     
