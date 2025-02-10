@@ -35,3 +35,7 @@ Feel free to connect with me as I explore the fascinating world of data!
 <a href="https://github.com/Tonminhvan1912/Power-BI-Superstore-Sales-Performance-and-Strategic-Expansion/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=Power-BI-Superstore-Sales-Performance-and-Strategic-Expansion&theme=radical" />
 </a>
+
+<a href="https://github.com/Tonminhvan1912/Python-RFM-Analysis-Driving-Customer-Retention-Strategies/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=Python-RFM-Analysis-Driving-Customer-Retention-Strategies&theme=neon" />
+</a>
