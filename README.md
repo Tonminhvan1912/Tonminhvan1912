@@ -39,3 +39,7 @@ Feel free to connect with me as I explore the fascinating world of data!
 <a href="https://github.com/Tonminhvan1912/Python-RFM-Analysis-Driving-Customer-Retention-Strategies/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=Python-RFM-Analysis-Driving-Customer-Retention-Strategies&theme=neon" />
 </a>
+
+<a href="https://github.com/Tonminhvan1912/Machine-Learning-AB-Testing-for-Customer-Conversion-Rates-on-E-commerce-Platforms/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=Machine-Learning-AB-Testing-for-Customer-Conversion-Rates-on-E-commerce-Platforms&theme=midnight-purple" />
+</a>
