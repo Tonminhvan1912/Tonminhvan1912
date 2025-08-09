@@ -21,7 +21,13 @@ Feel free to connect with me as I explore the fascinating world of data!
     
 **Machine Learning:** Unsupervised Learning & Supervised Learning with Scikit-learn
 
-## **MY PROJECT** 👇👇👇
+## **RESEARCH AND REPORTING SKILLS**
+
+<a href="https://github.com/Tonminhvan1912/SQL-Unraveling-E-commerce-Insights/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=Forecasting-and-Market-Valuation-of-The-Coffee-Shop-Sector-in-2025" />
+</a>
+
+## **TECHNICAL SKILLS**
 
 <a href="https://github.com/Tonminhvan1912/SQL-Unraveling-E-commerce-Insights/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=SQL-Unraveling-E-commerce-Insights&theme=omni" />
