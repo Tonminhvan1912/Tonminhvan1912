@@ -23,8 +23,8 @@ Feel free to connect with me as I explore the fascinating world of data!
 
 ## **RESEARCH AND REPORTING SKILLS**
 
-<a href="https://github.com/Tonminhvan1912/SQL-Unraveling-E-commerce-Insights/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=Forecasting-and-Market-Valuation-of-The-Coffee-Shop-Sector-in-2025" />
+<a href="https://github.com/Tonminhvan1912/Forecasting-and-Market-Valuation-of-The-Coffee-Shop-Sector-in-2025/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonminhvan1912&repo=Forecasting-and-Market-Valuation-of-The-Coffee-Shop-Sector-in-2025&theme=omni" />
 </a>
 
 ## **TECHNICAL SKILLS**
